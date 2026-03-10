@@ -6,7 +6,7 @@
 
 *High-performance async APIs · Distributed systems · AI-driven backends*
 
-📍 Italy (EU) &nbsp;·&nbsp; 📬 [temirlanilik76@gmail.com](mailto:temirlanilik76@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+📍 Italy (EU) &nbsp;·&nbsp; 📬 [temirlanilik76@gmail.com](mailto:temirlanilik76@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/ilik)
 
 </div>
 
@@ -95,11 +95,6 @@ Senior Python Backend Engineer with **6+ years** of experience building scalable
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LANneeer&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LANneeer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
 </div>
 
 ---
